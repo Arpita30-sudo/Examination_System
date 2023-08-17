@@ -4,7 +4,7 @@ This Python program implements a simple Examination System. It allows staff and 
 
 # Usage :
 
-Run the exam_system.py file to start the Examination System.
+Run the Main.py file to start the Examination System.
 
 The main menu will be displayed, offering two options:
 
@@ -43,7 +43,7 @@ Python 3.x (Tested with Python 3.6+)
 
 Download or clone the repository.
 
-Run the exam_system.py script in your Python environment.
+Run the Main.py script in your Python environment.
 
 Follow the on-screen instructions to perform staff or student actions.
 
